@@ -6,7 +6,7 @@ Explicación de como documentar su primer proyecto
 * [¿Cómo comenzar?](#cómo-comenzar)
 * [Formato recomendado](#formato-recomendado)
 * [Herramientas útiles](#herramientas-útiles)
-* [Publicar tu decumentación](#publicar-tu-documentación)
+* [Publicar tu documentación](#publicar-tu-documentación)
 
 ## ¿Por qué documentar?
 
