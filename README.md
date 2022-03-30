@@ -3,14 +3,14 @@ Explicación de como documentar su primer proyecto.
 
 ## Tabla de contenidos
 * [¿Por qué documentar?](#por-qué-documentar)
-* [¿Qué es documentar](#qué-es-documentar)
+* [¿Qué es documentar?](#qué-es-documentar)
 * [¿Cómo comenzar?](#cómo-comenzar)
 * [Formato recomendado](#formato-recomendado)
 * [Herramientas útiles](#herramientas-útiles)
 * [Publicar tu documentación](#publicar-tu-documentación)
 
 ## ¿Por qué documentar?
-A la hora de programar, no solo es importante que un código sea funcional, sino que sea **entendible**. Una documentación sirve para explicar la función de su código y todo lo que lo rodea, como por ejemplo bugs, cambios de versiones o instalación. En 6 meses, probablemente habrá escrito una gran cantidad de código, por lo que probablemente no recuerde todo a detalle. Por lo tanto, **le puede ser muy útil ver una explicación de tu código cuando inevitablemente lo vuelva a utilizar**. Además, la documentación también puede ayudar al resto de las personas que utilice su código y quiera saber cómo funciona. En resúmen, como diría [whydocs.org](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/), documentar te permite transmitir el "por qué" detrás de tu código. 
+A la hora de programar, no solo es importante que un código sea funcional, sino que sea **entendible**. Una documentación sirve para explicar la función de su código y todo lo que lo rodea, como por ejemplo bugs, cambios de versiones o instalación. En 6 meses, probablemente habrá escrito una gran cantidad de código, por lo que probablemente no recuerde todo a detalle. Por lo tanto, **le puede ser muy útil ver una explicación de tu código cuando inevitablemente lo vuelva a utilizar**. Además,otra gran ventaja de la documentación es que puede ayudar al resto de las personas que utilice su código y quiera saber cómo funciona. En resúmen, como diría [whydocs.org](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/), documentar te permite transmitir el "por qué" detrás de tu código. 
 
 ## ¿Qué es documentar?
 Documentar significa anotar y explicar la funcionalidad, utilidad, o instrucciones para algún proyecto, en algún lugar accesible a quiénes lo usen. Este archivo, por ejemplo, es una documentación diseñada para aprender a documentar. 
