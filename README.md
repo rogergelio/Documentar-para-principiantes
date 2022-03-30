@@ -25,7 +25,8 @@ Aunque no existan reglas generales para escribir documentación, si **hay varias
 7. Información sobre las tecnologías que utilice el proyecto
 
 ## Herramientas útiles
-En esta [página](https://www.markdownguide.org/cheat-sheet/) podrá encontrar múltiples **atajos** para ayudar a la legibilidad de su documentación, como por ejemplo **negritas**, *itálicas* y `código`. En esta [página](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/) se pueden observar varios ejemplos de implementaciones de formato a una documentación. 
+* En esta [página](https://www.markdownguide.org/cheat-sheet/) podrá encontrar múltiples **atajos** para ayudar a la legibilidad de su documentación, como por ejemplo **negritas**, *itálicas* y `código`. 
+* En este [link](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/) se pueden observar varios ejemplos de implementaciones de formato a una documentación. 
 
 ## Publicar tu documentación
 Una vez que termine de documentar, simplemente haga un `commit` al código y estará listo. En caso de que esté en el editor de github, diríjase hasta abajo de la página y haga click en el botón verde. 
