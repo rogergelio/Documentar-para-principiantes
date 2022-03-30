@@ -2,10 +2,10 @@
 Explicación de como documentar su primer proyecto
 
 ## Tabla de contenidos
-* [¿Por qué documentar?](#¿por-que-documentar?)
-* [¿Cómo comenzar?](#¿como-comenzar?)
+* [¿Por qué documentar?](#por-qué-documentar)
+* [¿Cómo comenzar?](#cómo-comenzar)
 * [Formato recomendado](#formato-recomendado)
-* [Herramientas útiles](#herramientas-utiles)
+* [Herramientas útiles](#herramientas-útiles)
 * [Publicar tu decumentación](#publicar-tu-documentación)
 
 ## ¿Por qué documentar?
