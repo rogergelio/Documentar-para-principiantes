@@ -16,4 +16,4 @@ Explicación de como documentar su primer proyecto
 
 ## Herramientas útiles
 
-## Publicar tu decumentación
+## Publicar tu documentación
